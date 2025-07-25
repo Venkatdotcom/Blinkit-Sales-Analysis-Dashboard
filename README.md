@@ -89,8 +89,8 @@ To analyze grocery sales data for Blinkit (India's Last Minute App) and uncover 
 
 ## 👨‍💻 Author
 
-Developed by *[Your Name]*  
-📧 [your.email@example.com]  
+Developed by *[kunapareddy venkata ramaiah]*  
+📧 [venkat198881@gmail.com]  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/venkata-ramaiah-kunapareddy-7b7197334/)  
 🔗 [Portfolio Website]( https://venkatdotcom.github.io/venkat-s-portfolio/) 
 
