@@ -53,3 +53,36 @@ Dataset includes:
 - Sales peaked in *2018* and then slightly declined.
 - Low Fat products performed slightly better in total sales.
 
+---
+
+## 🧠 Business Recommendations
+
+1. *Optimize Inventory for Top Categories*  
+   → Boost availability and promotions for high-selling categories like Fruits & Vegetables and Snack Foods.
+
+2. *Invest in Tier 3 Locations*  
+   → Tier 3 stores generated the most revenue. Expand infrastructure and marketing in these regions.
+
+3. *Expand High-Size Outlets*  
+   → Focus on high-size outlets for future expansion since they yield the highest returns.
+
+4. *Revive Sales Post-2018 Peak*  
+   → Investigate decline after 2018. Consider re-engagement campaigns and price optimization.
+
+5. *Promote High-Rated Products*  
+   → Leverage customer ratings to highlight top products in promotions and recommendations.
+
+6. *Push Low Fat Items Strategically*  
+   → Use health-based marketing to attract wellness-focused consumers.
+
+7. *Analyze Low-Performing Categories*  
+   → Audit underperformers like Seafood, Starchy Foods and Herbs. Drop or redesign marketing.
+
+8. *Correlate Ratings with Sales*  
+   → Investigate if well-rated but low-selling products need more visibility.
+
+9. *Revisit Mid-Range Category Pricing*  
+   → Experiment with bundled pricing or discount offers on mid-level performers like Canned and Frozen Foods.
+
+---
+
