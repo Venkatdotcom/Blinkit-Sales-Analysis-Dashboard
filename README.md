@@ -6,7 +6,8 @@ A professional Excel dashboard to analyze sales, item types, outlet performance,
 
 ## 📊 Dashboard image
 
-https://github.com/Venkatdotcom/Data-Analysis-Dashboard/blob/main/Screenshot%20Dashboard.png
+<img width="1722" height="654" alt="Screenshot Dashboard" src="https://github.com/user-attachments/assets/0b84a69b-456b-4a39-b95a-37ae9accc29e" />
+
 
 ---
 
