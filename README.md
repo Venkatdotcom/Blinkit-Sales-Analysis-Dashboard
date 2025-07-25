@@ -38,7 +38,7 @@ To analyze grocery sales data for Blinkit (India's Last Minute App) and uncover 
 - *Average Rating:* 4.0
 - *Average Sales:* $141
 
-# Dataset includes:
+## Dataset includes:
 - Item type and category
 - Outlet size and location
 - Sales and rating
