@@ -94,7 +94,7 @@ Developed by *[kunapareddy venkata ramaiah]*
 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/venkata-ramaiah-kunapareddy-7b7197334/?trk=profile-badge&originalSubdomain=in)
                
-🔗 [Portfolio Website]( https://venkatdotcom.github.io/venkat-s-portfolio/) 
+🔗 [Portfolio Website]( https://venkatdotcom.github.io/data-analysis-portfolio/) 
 
 ---
 
