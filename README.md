@@ -91,7 +91,8 @@ To analyze grocery sales data for Blinkit (India's Last Minute App) and uncover 
 
 Developed by *[kunapareddy venkata ramaiah]*  
 📧 [venkat198881@gmail.com]  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/venkata-ramaiah-kunapareddy-7b7197334/)  
+🔗 [LinkedIn Profile](<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="venkata-ramaiah-kunapareddy-7b7197334" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/venkata-ramaiah-kunapareddy-7b7197334?trk=profile-badge">Venkata ramaiah Kunapareddy</a></div>
+              )  
 🔗 [Portfolio Website]( https://venkatdotcom.github.io/venkat-s-portfolio/) 
 
 ---
